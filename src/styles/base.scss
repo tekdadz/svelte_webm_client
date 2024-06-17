@@ -1,0 +1,20 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: auto;
+  font-family: 'Roboto', sans-serif;
+  min-width: 320px;
+  background-color: var(--background-color);
+  color: var(--main-color);
+}
+
+/* Page Wrapper (Container) */
+
+.page-wrapper {
+  max-width: 600px;
+  margin: auto;
+  padding: 0 20px;
+  padding-bottom: 20px;
+}
